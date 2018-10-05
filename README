@@ -1,0 +1,1 @@
+A fast fibonacci calculator through fast doubling. Limited to capcity of `uint_fast64_t`.

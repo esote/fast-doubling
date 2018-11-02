@@ -2,8 +2,6 @@
 #include <inttypes.h>
 #include <stdlib.h>
 
-#include <stdio.h>
-
 #include "fdoub.h"
 
 START_TEST (test_fib) {

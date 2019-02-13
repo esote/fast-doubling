@@ -1,4 +1,4 @@
-#include <inttypes.h>
+#include "fdoub.h"
 
 struct pair {
 	uint_fast64_t const first;

@@ -8,7 +8,7 @@ var (
 	two  = big.NewInt(2)
 )
 
-// A fast fibonacci calculator through fast doubling.
+// A fast Fibonacci calculator through fast doubling.
 // https://en.wikipedia.org/wiki/Fibonacci_number#Matrix_form
 func Fib(n *big.Int) *big.Int {
 	n, _ = fib(n)
